@@ -55,7 +55,7 @@ function getObjectFromXML(node) {
 }
 
 const list = getObjectFromXML(studentNode);
-const obj = {list};
+const obj = { list };
 
 console.log(obj);
 
